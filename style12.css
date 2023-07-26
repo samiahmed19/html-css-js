@@ -1,0 +1,84 @@
+.mid{
+    display: flex;
+    flex-direction: column;
+    margin-top: 200px;
+    margin-left: 50%;
+    margin-right: 50%;
+    border-radius: 15px;
+    width: fit-content;
+    border: 5px solid white;
+    background-color:  white;
+}
+.name{
+    font-style:oblique ;
+    font-size: 25px;
+    text-align: center;
+    background-color: white;
+}
+.user{
+    display: flex;
+    flex-direction: column;
+    background-color: white;
+}
+.us{
+    text-align: left;
+    margin-left: 10px;
+    background-color: white;
+}
+#userbox{
+    padding: 5px;
+    width: 250px;
+    border-radius: 4px;
+    margin-left:10px;
+    background-color: white;
+}
+.pass{
+    display: flex;
+    flex-direction: column;
+    padding: 5px;
+    border-radius: 4px;
+    background-color: white;
+}
+
+.pa{
+    text-align: left;
+    margin-left: 10px;
+    background-color: white;
+}
+
+#boxpass{
+    padding: 5px;
+    width: 250px;
+    border-radius: 4px;
+    margin-left:10px;
+    background-color: white;
+}
+
+#button{
+    background-color: greenyellow;
+    color: rgb(255, 255, 255);
+    width: 250px;
+    padding: 5px;
+    border-radius: 4px;
+    /* margin-top: 10px; */
+    margin-left: 10px; 
+    font-size: 15px;
+}
+.bottom{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    background-color: white;
+}
+
+#sign{
+    color: green;
+    background-color: white;
+}
+#para{
+    background-color: white;
+}
+
+*{
+    background-color: whitesmoke;
+}
